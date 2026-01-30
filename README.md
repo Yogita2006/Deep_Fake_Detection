@@ -35,7 +35,7 @@ This project is a web-based application for detecting deepfake images and videos
 
    ```
    git clone https://github.com/Yogita2006/Deep_Fake_Detection
-   cd deepfake-detection-app
+   cd Deep_Fake_Detection
    ```
 
 2. Set up a virtual environment (optional but recommended);
