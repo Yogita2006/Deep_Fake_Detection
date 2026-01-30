@@ -131,8 +131,8 @@ This project is a web-based application for detecting deepfake images and videos
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/deepfake-detection-app.git
-   cd deepfake-detection-app
+   git clone https://github.com/yourusername/Deep_Fake_Detection.git
+   cd Deep_Fake_Detection
    ```
 
 2. Set up a virtual environment (optional but recommended);
