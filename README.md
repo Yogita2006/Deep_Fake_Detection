@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿# DeepFake Detection Web Application
 
 ## Overview
